@@ -37,8 +37,8 @@ Usa questa lista per tracciare cosa manca prima della consegna del progetto.
 - [X] Implementare il metodo override string ToString() per CCilindro.
 
 ### Parte 2: Progetto ComposizioneIsA
-- [ ] Creare il secondo progetto all'interno della stessa soluzione di Visual Studio.
-- [ ] Modificare la classe CCerchio in modo che erediti da CPunto.
+- [X] Creare il secondo progetto all'interno della stessa soluzione di Visual Studio.
+- [X] Modificare la classe CCerchio in modo che erediti da CPunto.
 - [ ] Modificare la classe CCilindro in modo che erediti da CCerchio.
 - [ ] Riscrivere i costruttori parametrizzati usando la sintassi : base() per passare i dati alla classe padre.
 - [ ] Implementare i metodi ToString() specifici per l'ereditarietà sfruttando base.ToString().
