@@ -39,9 +39,9 @@ Usa questa lista per tracciare cosa manca prima della consegna del progetto.
 ### Parte 2: Progetto ComposizioneIsA
 - [X] Creare il secondo progetto all'interno della stessa soluzione di Visual Studio.
 - [X] Modificare la classe CCerchio in modo che erediti da CPunto.
-- [ ] Modificare la classe CCilindro in modo che erediti da CCerchio.
-- [ ] Riscrivere i costruttori parametrizzati usando la sintassi : base() per passare i dati alla classe padre.
-- [ ] Implementare i metodi ToString() specifici per l'ereditarietà sfruttando base.ToString().
+- [X] Modificare la classe CCilindro in modo che erediti da CCerchio.
+- [X] Riscrivere i costruttori parametrizzati usando la sintassi : base() per passare i dati alla classe padre.
+- [X] Implementare i metodi ToString() specifici per l'ereditarietà sfruttando base.ToString().
 
 ### Parte 3: Test e Consegna
 - [ ] Scrivere un metodo Main di prova per verificare la stampa a schermo dei dati su entrambi i progetti.
