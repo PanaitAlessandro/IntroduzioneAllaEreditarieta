@@ -32,9 +32,9 @@ Usa questa lista per tracciare cosa manca prima della consegna del progetto.
 - [x] Implementare Proprietà (Getter/Setter) con validazione dei dati (Raggio e Altezza maggiori di zero).
 - [x] Definire i costruttori di default senza parametri.
 - [x] Definire i costruttori con parametri a cascata (passaggio dati da Cilindro a Cerchio a Punto).
-- [ ] Implementare il metodo override string ToString() per CPunto.
-- [ ] Implementare il metodo override string ToString() per CCerchio.
-- [ ] Implementare il metodo override string ToString() per CCilindro.
+- [X] Implementare il metodo override string ToString() per CPunto.
+- [X] Implementare il metodo override string ToString() per CCerchio.
+- [X] Implementare il metodo override string ToString() per CCilindro.
 
 ### Parte 2: Progetto ComposizioneIsA
 - [ ] Creare il secondo progetto all'interno della stessa soluzione di Visual Studio.
