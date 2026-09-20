@@ -44,6 +44,6 @@ Usa questa lista per tracciare cosa manca prima della consegna del progetto.
 - [X] Implementare i metodi ToString() specifici per l'ereditarietà sfruttando base.ToString().
 
 ### Parte 3: Test e Consegna
-- [ ] Scrivere un metodo Main di prova per verificare la stampa a schermo dei dati su entrambi i progetti.
-- [ ] Verificare che i controlli sulle eccezioni (valori minori o uguali a zero) blocchino correttamente l'esecuzione.
+- [X] Scrivere un metodo Main di prova per verificare la stampa a schermo dei dati su entrambi i progetti.
+- [X] Verificare che i controlli sulle eccezioni (valori minori o uguali a zero) blocchino correttamente l'esecuzione.
 
